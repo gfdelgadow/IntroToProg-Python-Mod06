@@ -1,0 +1,3 @@
+Laundry,High
+Clean,High
+Cook,Low
